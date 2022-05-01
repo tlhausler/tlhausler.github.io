@@ -1,0 +1,26 @@
+﻿@model MVCTitle45MCA.ViewModels.Title45ViewModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm">
+
+        </div>
+        <div class="col-sm">
+            @using (Html.BeginForm("Chapter", "Home"))
+            {
+                <div>
+                    @Html.DropDownListFor(m => m.SelectedTitle, new SelectList(Model.SelectListTitle, "Value", "Text"), "Select Title")
+                </div>
+                <input type="submit" value="submit" />
+            }
+        </div>
+        <div class="col-sm">
+            
+        </div>
+
+    </div>
+</div>

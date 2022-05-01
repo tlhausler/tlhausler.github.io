@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Title45MCADB", "Title45MCADB.csproj", "{4AEA7BD4-99C7-4D70-8E42-AC07DED4189C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCAWebScraper", "..\MCAWebScraper\MCAWebScraper.csproj", "{055F8C66-80C8-4F0E-8872-84CCAF3E2B87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AEA7BD4-99C7-4D70-8E42-AC07DED4189C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AEA7BD4-99C7-4D70-8E42-AC07DED4189C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AEA7BD4-99C7-4D70-8E42-AC07DED4189C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AEA7BD4-99C7-4D70-8E42-AC07DED4189C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{055F8C66-80C8-4F0E-8872-84CCAF3E2B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055F8C66-80C8-4F0E-8872-84CCAF3E2B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055F8C66-80C8-4F0E-8872-84CCAF3E2B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055F8C66-80C8-4F0E-8872-84CCAF3E2B87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77806855-087B-476C-A08C-7ACA104A8D28}
+	EndGlobalSection
+EndGlobal

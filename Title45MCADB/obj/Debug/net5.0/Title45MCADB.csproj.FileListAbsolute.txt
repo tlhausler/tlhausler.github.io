@@ -1,0 +1,15 @@
+C:\Users\tambe\Desktop\School\semester4\portfolio\Title45MCADB\bin\Debug\net5.0\Title45MCADB.deps.json
+C:\Users\tambe\Desktop\School\semester4\portfolio\Title45MCADB\bin\Debug\net5.0\Title45MCADB.dll
+C:\Users\tambe\Desktop\School\semester4\portfolio\Title45MCADB\bin\Debug\net5.0\ref\Title45MCADB.dll
+C:\Users\tambe\Desktop\School\semester4\portfolio\Title45MCADB\bin\Debug\net5.0\Title45MCADB.pdb
+C:\Users\tambe\Desktop\School\semester4\portfolio\Title45MCADB\obj\Debug\net5.0\Title45MCADB.csproj.AssemblyReference.cache
+C:\Users\tambe\Desktop\School\semester4\portfolio\Title45MCADB\obj\Debug\net5.0\Title45MCADB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tambe\Desktop\School\semester4\portfolio\Title45MCADB\obj\Debug\net5.0\Title45MCADB.AssemblyInfoInputs.cache
+C:\Users\tambe\Desktop\School\semester4\portfolio\Title45MCADB\obj\Debug\net5.0\Title45MCADB.AssemblyInfo.cs
+C:\Users\tambe\Desktop\School\semester4\portfolio\Title45MCADB\obj\Debug\net5.0\Title45MCADB.csproj.CoreCompileInputs.cache
+C:\Users\tambe\Desktop\School\semester4\portfolio\Title45MCADB\obj\Debug\net5.0\Title45MCADB.dll
+C:\Users\tambe\Desktop\School\semester4\portfolio\Title45MCADB\obj\Debug\net5.0\ref\Title45MCADB.dll
+C:\Users\tambe\Desktop\School\semester4\portfolio\Title45MCADB\obj\Debug\net5.0\Title45MCADB.pdb
+C:\Users\tambe\Desktop\School\semester4\portfolio\Title45MCADB\bin\Debug\net5.0\Title45MCADB.runtimeconfig.json
+C:\Users\tambe\Desktop\School\semester4\portfolio\Title45MCADB\bin\Debug\net5.0\Title45MCADB.runtimeconfig.dev.json
+C:\Users\tambe\Desktop\School\semester4\portfolio\Title45MCADB\obj\Debug\net5.0\Title45MCADB.genruntimeconfig.cache

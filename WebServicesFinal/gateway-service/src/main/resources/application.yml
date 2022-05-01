@@ -1,0 +1,30 @@
+server:
+  port: 8100
+
+spring:
+  application:
+    name: GATEWAY-SERVICE
+  cloud:
+    gateway:
+      routes: 
+        - id: PARTY-SERVICE
+          uri: lb://PARTY-SERVICE
+          predicates:
+            - Path=/parties/**
+        - id: PLAYER-SERVICE
+          uri: lb://PLAYER-SERVICE
+          predicates:
+            - Path=/players/**
+        - id: EQUIPMENT-SERVICE
+          uri: lb://EQUIPMENT-SERVICE
+          predicates:
+            - Path=/equipment/**
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+    instance:
+      hostname: localhost
