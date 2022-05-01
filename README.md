@@ -1,21 +1,21 @@
 # tlhausler.github.io
 
-<p>Main page for my portfolio repository.</p>
+Main page for my portfolio repository.
 
-  [Microservices Project](#java-microservices)
+[Microservices Project](#java-microservices)
   
-  [MCA MVC](#mca-mvc)
+[MCA MVC](#mca-mvc)
   
-  [MCA Database](#mca-database)
+[MCA Database](#mca-database)
   
-  [MCA Web Scraper](#mca-web-scraper)
+[MCA Web Scraper](#mca-web-scraper)
   
-  [Document Database with Marten](#document-database)
+[Document Database with Marten](#document-database)
   
-  [Note Application](#note-application)
+[Note Application](#note-application)
   
-  [File Backup Application](#file-backup-application)
+[File Backup Application](#file-backup-application)
   
-  [Vue Web Application](#vue-web-application)
+[Vue Web Application](#vue-web-application)
   
-  [Android Application](#android-application)
+[Android Application](#android-application)
