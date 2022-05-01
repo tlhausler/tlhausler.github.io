@@ -1,6 +1,0 @@
-{
-    "/api/*": "/$1",
-    "/character": "/characters",
-    "/reset": "/reset"
-  }
-  
