@@ -12,6 +12,8 @@ Portfolio project links:
 
 [Notes App](https://github.com/tlhausler/notes-win-form)
 
+[File Backup App](https://github.com/tlhausler/file-backup-app)
+
 [Vue.js Web App](https://github.com/tlhausler/vue-rpg-web-app)
 
 [Android Application](https://github.com/tlhausler/android-card-app)
