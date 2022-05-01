@@ -10,6 +10,8 @@ Portfolio project links:
 
 [Java Microservices Project](https://github.com/tlhausler/rpg-microservice)
 
+[Notes App](https://github.com/tlhausler/notes-win-form)
+
 [Vue.js Web App](https://github.com/tlhausler/vue-rpg-web-app)
 
 [Android Application](https://github.com/tlhausler/android-card-app)
